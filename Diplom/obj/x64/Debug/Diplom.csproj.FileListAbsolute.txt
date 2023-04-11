@@ -1,0 +1,12 @@
+D:\HomeWork\Projects\Diplom\Diplom\bin\x64\Debug\Spusok_ychniv.accdb
+D:\HomeWork\Projects\Diplom\Diplom\bin\x64\Debug\Diplom.exe.config
+D:\HomeWork\Projects\Diplom\Diplom\bin\x64\Debug\Diplom.exe
+D:\HomeWork\Projects\Diplom\Diplom\bin\x64\Debug\Diplom.pdb
+D:\HomeWork\Projects\Diplom\Diplom\obj\x64\Debug\Diplom.csproj.AssemblyReference.cache
+D:\HomeWork\Projects\Diplom\Diplom\obj\x64\Debug\Diplom.csproj.SuggestedBindingRedirects.cache
+D:\HomeWork\Projects\Diplom\Diplom\obj\x64\Debug\Diplom.Form1.resources
+D:\HomeWork\Projects\Diplom\Diplom\obj\x64\Debug\Diplom.Properties.Resources.resources
+D:\HomeWork\Projects\Diplom\Diplom\obj\x64\Debug\Diplom.csproj.GenerateResource.cache
+D:\HomeWork\Projects\Diplom\Diplom\obj\x64\Debug\Diplom.csproj.CoreCompileInputs.cache
+D:\HomeWork\Projects\Diplom\Diplom\obj\x64\Debug\Diplom.exe
+D:\HomeWork\Projects\Diplom\Diplom\obj\x64\Debug\Diplom.pdb
